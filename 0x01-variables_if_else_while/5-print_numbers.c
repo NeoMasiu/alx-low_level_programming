@@ -7,12 +7,12 @@
 /**
   * main - Prints all single digit numbers of base 10 starting from 0.
   *
-  * eturn: Always 0.
+  * return: Always 0.
   */
 
 int main(void)
 {
-int num ;
+int num;
 
 for (num = 0; num < 10; num++)
 printf("%d", num);
