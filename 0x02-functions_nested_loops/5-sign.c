@@ -27,5 +27,5 @@ else
 {
 _putchar('-');
 return ('/');
-}							
+}
 }
