@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include "unistd.h"
+#include "main.h"
 
 /**
 * main - prints the string "_putchar" from a character array.
