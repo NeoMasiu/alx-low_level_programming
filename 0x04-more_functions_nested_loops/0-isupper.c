@@ -1,8 +1,6 @@
 #include "main.h"
 #include "unistd.h"
 
-
-
 /**
 * _isupper - function that checks for uppercase characters
 * @c: int type number
