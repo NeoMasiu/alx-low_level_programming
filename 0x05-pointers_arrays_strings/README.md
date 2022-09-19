@@ -28,6 +28,10 @@
 9. strcpy
 - Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
 
+11. Don't hate the hacker, hate the code
+- Create a program that generates random valid passwords for the program 101-crackme.
+
+
 
 
 
