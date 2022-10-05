@@ -1,7 +1,5 @@
 #include "main.h"
-
 #include <stdlib.h>
-
 #include <stdio.h>
 
 /**
@@ -20,7 +18,7 @@ return (a);
 }
 
 /**
-*_strdup - function to return pointer to string 
+*_strdup - function to return pointer to string
 * @str: pointer to string array input
 * Return: pointer to string created
 */
