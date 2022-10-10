@@ -4,7 +4,7 @@ int _putchar(char c);
 
 /**
 * struct dog - dog struct
-* name: name of dog
+* @@name: name of dog
 * @age: age of dog
 * @owner: owner of dog
 */
