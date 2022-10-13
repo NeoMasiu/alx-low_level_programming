@@ -15,7 +15,6 @@ printf("Hello, my name is %s\n", name);
 * @name: name of the person
 * Return: Nothing.
 */
-
 void print_name_uppercase(char *name)
 {
 unsigned int i;
@@ -38,12 +37,10 @@ i++;
 * main - check the code for Holberton School students.
 * Return: Always 0.
 */
-
 int main(void)
 {
 print_name("Danton", print_name_as_is);
 print_name("Rick Harris", print_name_uppercase);
 printf("\n");
 return (0);
-}
 }
